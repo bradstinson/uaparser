@@ -1,0 +1,21 @@
+{
+	"name": "bradstinson/uaparser",
+	"type": "library",
+	"description": "User-agent parser library",
+	"keywords": ["uaparser", "user-agent", "ua", "ua-parser-php"],
+	"homepage": "https://github.com/bradstinson/uaparser",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Brad Stinson",
+			"email": "brad@bradstinson.net",
+		}
+	],
+    "require": {
+        "php": ">=5.3.0",
+        "matthiew/uaparser": "dev-master"
+	},
+    "autoload": {
+        "classmap": [""]
+    }
+}
