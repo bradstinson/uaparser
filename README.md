@@ -1,5 +1,7 @@
-UAParser
+UAParser [DEPRECATED]
 ======
+
+NOTE: This code is no longer maintained or supported. I recommend using the following package instead: https://packagist.org/packages/ua-parser/uap-php
 
 UAParser takes advantage of the browser-detection library "ua-parser-php". (https://github.com/tobie/ua-parser/tree/master/php)
 
